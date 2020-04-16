@@ -4,7 +4,7 @@ class ArticlesController < ApplicationController
 
 
 	def show
-		#byebug
+		
 	end
 
 	def index
